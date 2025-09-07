@@ -73,8 +73,8 @@ h1 {
 
 #planets img {
   display: block;
-  width: 92px;
-  height: 92px;
+  width: 184px;
+  height: 184px;
   object-fit: contain;
   filter: drop-shadow(0 2px 6px rgba(0,0,0,0.4));
   margin: 4px auto;
